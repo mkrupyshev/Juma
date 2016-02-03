@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'gotreg';
+    src: url('gotreg.eot');
+    src: url('gotreg.eot?#iefix') format('embedded-opentype'),
+         url('gotreg.woff2') format('woff2'),
+         url('gotreg.woff') format('woff'),
+         url('gotreg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'gotreg';
+    src: url('gotbold.eot');
+    src: url('gotbold.eot?#iefix') format('embedded-opentype'),
+         url('gotbold.woff2') format('woff2'),
+         url('gotbold.woff') format('woff'),
+         url('gotbold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
